@@ -1,0 +1,19 @@
+c:\users\user\documents\visual studio 2015\Projects\Veri Yapıları II\Veri Yapıları II\bin\Debug\Veri Yapıları II.exe.config
+c:\users\user\documents\visual studio 2015\Projects\Veri Yapıları II\Veri Yapıları II\bin\Debug\Veri Yapıları II.exe
+c:\users\user\documents\visual studio 2015\Projects\Veri Yapıları II\Veri Yapıları II\bin\Debug\Veri Yapıları II.pdb
+c:\users\user\documents\visual studio 2015\Projects\Veri Yapıları II\Veri Yapıları II\obj\Debug\Veri Yapıları II.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\Veri Yapıları II\Veri Yapıları II\obj\Debug\Veri_Yapıları_II.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\Veri Yapıları II\Veri Yapıları II\obj\Debug\Veri_Yapıları_II.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\Veri Yapıları II\Veri Yapıları II\obj\Debug\Veri Yapıları II.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\Veri Yapıları II\Veri Yapıları II\obj\Debug\Veri Yapıları II.exe
+c:\users\user\documents\visual studio 2015\Projects\Veri Yapıları II\Veri Yapıları II\obj\Debug\Veri Yapıları II.pdb
+C:\Users\lenovo\Desktop\Veri Yapıları II\Veri Yapıları II\Veri Yapıları II\bin\Debug\Veri Yapıları II.exe.config
+C:\Users\lenovo\Desktop\Veri Yapıları II\Veri Yapıları II\Veri Yapıları II\bin\Debug\Veri Yapıları II.exe
+C:\Users\lenovo\Desktop\Veri Yapıları II\Veri Yapıları II\Veri Yapıları II\bin\Debug\Veri Yapıları II.pdb
+C:\Users\lenovo\Desktop\Veri Yapıları II\Veri Yapıları II\Veri Yapıları II\obj\Debug\Veri Yapıları II.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Veri Yapıları II\Veri Yapıları II\Veri Yapıları II\obj\Debug\Veri_Yapıları_II.Form1.resources
+C:\Users\lenovo\Desktop\Veri Yapıları II\Veri Yapıları II\Veri Yapıları II\obj\Debug\Veri_Yapıları_II.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Veri Yapıları II\Veri Yapıları II\Veri Yapıları II\obj\Debug\Veri Yapıları II.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Veri Yapıları II\Veri Yapıları II\Veri Yapıları II\obj\Debug\Veri Yapıları II.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Veri Yapıları II\Veri Yapıları II\Veri Yapıları II\obj\Debug\Veri Yapıları II.exe
+C:\Users\lenovo\Desktop\Veri Yapıları II\Veri Yapıları II\Veri Yapıları II\obj\Debug\Veri Yapıları II.pdb
